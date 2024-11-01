@@ -18,6 +18,10 @@ body {
     background-color: #1b2023;
 }
 
+img {
+    max-width: 100%;
+}
+
 ul, 
 li {
     padding: 0;
@@ -36,7 +40,7 @@ h5,
 h6,
 p {
     margin: 0;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     min-height: 10px;
 }
 
@@ -44,6 +48,12 @@ a {
     color: #000;
     text-decoration: none;
     min-height: 10px;
+}
+
+p, 
+a {
+    font-size: 20px;
+    line-height: 25px;
 }
 
 header {
@@ -76,7 +86,8 @@ header {
     margin-bottom: 20px;
 }
 
-.header__descr {
+.header__descr,
+.descr {
     max-width: 500px;
 }
 
@@ -87,6 +98,10 @@ header {
 
 .space-around {
     justify-content: space-around;
+}
+
+.block {
+    display: block;
 }
 
 .hover:hover {
@@ -121,4 +136,78 @@ header {
 
 .transition {
     transition: all .3s ease-in-out;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.container {
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.center {
+    align-self: center;
+}
+
+.box {
+    border-bottom: 1px solid #fff;
+    margin-bottom: 20px;
+}
+
+.border-none {
+    border: none;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.text-yellow {
+    color: #f7d709f7;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.square {
+    list-style-type: square;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.exp__list {
+    padding-left: 30px;
+}
+
+.text-orange {
+    color: #ec7514;
+}
+
+.background {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.happy {
+    max-width: 300px;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #ec7514;
+    line-height: 50px;
+}
+
+.happy:hover {
+    text-shadow: 5px 5px 20px #f7d709f7;
+}
+
+.between {
+    justify-content: space-between;
 }
