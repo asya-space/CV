@@ -1,2 +1,2 @@
 # rsschool-cv
-cv-task
+[cv-task](https://asyacloud.github.io/rsschool-cv/cv)
