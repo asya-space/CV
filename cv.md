@@ -1,19 +1,17 @@
-![cv-rs](https://i.ibb.co/dGVWLyR/cv-rs.png "cv-banner")
-<p>Self-taught web developer with a tutoring background in the legal sphere. More than a year in web development. Specialized in responsible design, HTML5, CSS3 and JavaScript. Also ready for remote working.</p>
-
-<p><b>Key achievement</b>: writing a custom built-in audio player. Some of the projects can be viewed on GitHub.</p>
+![cv-rs](https://i.ibb.co/zVjXZRQ/Dark-Grey-and-Red-Modern-Manager-Linked-In-Career-Page-Background.png "cv-banner")
+<p>I am a self-taught web developer. I have also been a content manager and website administrator. Furthermore, I have more than a year of experience in web development. I specialize in responsible design, HTML5, CSS3, and JavaScript. I am also ready for remote work.</p>
 
 **Contacts**
 
-![phone](https://i.ibb.co/7kfrfVY/phone-call.png "call") +7900-235-20-38, +77051740455
+![phone](https://i.ibb.co/7kfrfVY/phone-call.png "call") +77051740455
 
-![mail](https://i.ibb.co/3pNmX6x/mail.png "gmail") [asyafrontend@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+![mail](https://i.ibb.co/3pNmX6x/mail.png "gmail") [space@asyacloud.net](https://mail.google.com/mail/u/0/#inbox)
 
-![discord](https://i.ibb.co/KxW3LDR/discord.png "discord") [@asya_neuro](https://discord.com/)
+![discord](https://i.ibb.co/KxW3LDR/discord.png "discord") [@asya_cloud](https://discord.com/)
 
-![city](https://i.ibb.co/thb2xR5/skyline.png "city") [Krasnodar](https://maps.app.goo.gl/t8h11aCVW5Vx9F1D8)
+![city](https://i.ibb.co/thb2xR5/skyline.png "city") [Kazakhstan](https://g.co/kgs/HbPgoG8)
 
-![git](https://i.ibb.co/Z84rSKX/github.png "git") [GitHub](https://github.com/asyaLebedeva)
+![git](https://i.ibb.co/Z84rSKX/github.png "git") [GitHub](https://github.com/asyacloud)
 ### Skills
  
 ![Static Badge](https://img.shields.io/badge/HTML-F08D30?style=flat-square) ![Static Badge](https://img.shields.io/badge/CSS-4BAAF0?style=flat-square) ![Static Badge](https://img.shields.io/badge/FIGMA-D572FD?style=flat-square) ![Static Badge](https://img.shields.io/badge/SASS-F681B8?style=flat-square) ![Static Badge](https://img.shields.io/badge/GIT-0A0103?style=flat-square) ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-F481F6?style=flat-square) ![Static Badge](https://img.shields.io/badge/GULP-E61E1E?style=flat-square) ![Static Badge](https://img.shields.io/badge/WCAG2.0-4200FF?style=flat-square) ![Static Badge](https://img.shields.io/badge/JS-FEFE0D?style=flat-square) ![Static Badge](https://img.shields.io/badge/jQuery-AA8DFC?style=flat-square) ![Static Badge](https://img.shields.io/badge/Tailwind-90B2FB?style=flat-square)
