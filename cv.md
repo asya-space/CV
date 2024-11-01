@@ -58,20 +58,30 @@ LLC [Reg.ru Domains and Hosting](https://www.reg.ru/)
 
 Moscow, remote
 #### Achievements/Tasks
-+ consulting clients on registering and setting up domain names and hosting
-+ assistance in setting up and working with VPS servers
-+ KPI 87.39% (_Jun 2024_)
++ assisted in registering domain names
++ maintained hosting services
++ set up a mail server
++ installed of SSL certificates
++ achieved a 10% growth in the team, because
++ took a lot of clients for consulting and solved
++ their problems with websites.
++ KPI 96.96% (Aug 2024)
 
-07/2018-04/2023
+09/2018-04/2023
 
-**Tutor in legal sphere**
+**Content manager in two stores**
 
-Self-employing
+LLC [Ecotopia](https://ecotopia.ru/) and LLC [Automat](https://www.abtomat.ru/)
 
 Moscow, remote
 #### Achievements/Tasks
-+ scientific activity, consulting, educational activities
-+ research and correct student's final qualifications work
++ supported websites
++ created content, and pictures, designed an interface
++ created text content for describing goods
++ used Adobe Photoshop, Coral Draw, and
++ other software
++ researched competitors to improve products
++ worked in an administrative panel
 
 **Education**
 
@@ -92,29 +102,29 @@ GPA 4.27
 
 06/2022-09/2022
 
-2. Org: Stepic
+2. Org: Stepik
 ["Immersion in JavaScript"(for Beginners)](https://stepik.org/cert/2331310?lang=en)
 
 Jan 2024
 
-3. Org: Stepic
+3. Org: Stepik
 ["Indie course on HTML and CSS"](https://stepik.org/cert/2327593?lang=en)
 Jan 2024
 
 **Projects**
-[Amazing Hiking. Landing page](https://github.com/asyaLebedeva/amazing-hiking)
+[Amazing Hiking. Landing page](https://github.com/asyacloud/amazing-hiking)
 
 _Nov 2023-Jan 2024_
 
-[Musician blog](https://github.com/asyaLebedeva/musician-blog)
+[Musician blog](https://github.com/asyacloud/musician-blog)
 
 _03/2022-06/2023_
 
-[Boutique de brownies](https://github.com/asyaLebedeva/Boutique-de-brownies)
+[Boutique de brownies](https://github.com/asyacloud/Boutique-de-brownies)
 
 _01/2023-03/2023_
 
-[Travel Agency](https://github.com/asyaLebedeva/bon-voyage)
+[Travel Agency](https://github.com/asyacloud/bon-voyage)
 
 09/2022-12/2022
 
