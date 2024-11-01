@@ -16,41 +16,41 @@
  
 ![Static Badge](https://img.shields.io/badge/HTML-F08D30?style=flat-square) ![Static Badge](https://img.shields.io/badge/CSS-4BAAF0?style=flat-square) ![Static Badge](https://img.shields.io/badge/FIGMA-D572FD?style=flat-square) ![Static Badge](https://img.shields.io/badge/SASS-F681B8?style=flat-square) ![Static Badge](https://img.shields.io/badge/GIT-0A0103?style=flat-square) ![Static Badge](https://img.shields.io/badge/GULP-E61E1E?style=flat-square) ![Static Badge](https://img.shields.io/badge/WCAG2.0-4200FF?style=flat-square) ![Static Badge](https://img.shields.io/badge/JS-FEFE0D?style=flat-square) ![Static Badge](https://img.shields.io/badge/Tailwind-90B2FB?style=flat-square)
 
-**[Code examples](https://www.codewars.com/users/asyaLebedeva/completed_solutions)**
+**[Code examples](https://www.codewars.com/users/AsyaCloud/completed_solutions)**
 
-_**Body mass index calculation, function.**_ 
+_**Colour Association.**_ 
 ```
-function bmi(weight, height) {
-  let indexHeight = Math.pow(height, 2)
-  let index = weight / indexHeight
-  if(index <= 18.5) {
-      return "Underweight";
-
-  } else if(index <= 25.0) {
-      return "Normal";
-  }  else if(index <= 30.0) {
-    return "Overweight";
-  } else {
-    return "Obese"
+function colourAssociation(array){
+  let result;
+  let obj = [];
+  for(let i = 0; i < array.length; i++) {
+    result = Object.fromEntries([array[i]]);
+    //i++;
+    obj.push(result);
   }
+  return obj;
 }
 ```
-_**Set alarm, function**_
+_**16 + 18 = 214**_
 ```
-function setAlarm(employed, vacation){
-  if (employed && !vacation) {
-      return true;
-} else if (!employed && vacation) {
-      return false;
-  } else {
-  return false;
+function add(num1, num2) {
+  let arg1 = (num1 + '').split('').reverse();
+  let arg2 = (num2 + '').split('').reverse();
+  let result = [];
+  let newNum1 = arg1.map(i => i > 0 ? +i : 0);
+  let newNum2 = arg2.map(i => i > 0 ? +i : 0);
+  let maxArray =  Math.max(arg1.length, arg2.length);
+    for (let i = 0; i < maxArray; i++) {
+    result.push((newNum1[i] || 0) + (newNum2[i] || 0));
   }
+  let output = result.reverse().join('');
+  return +output;
 }
 ```
 ___
 #### Work experience
 
-01/2024 - Present
+01/2024 - 08/2024
 
 **Technical support specialist**
 
