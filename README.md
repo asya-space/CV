@@ -1,2 +1,3 @@
 # rsschool-cv
-[rsschool-cv-html](https://asyacloud.github.io/rsschool-cv/)
+Task about creating web-CV
+[Deploy](https://asya-space.github.io/rsschool-cv/)
