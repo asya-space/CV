@@ -17,7 +17,7 @@
  
 ![Static Badge](https://img.shields.io/badge/HTML-F08D30?style=flat-square) ![Static Badge](https://img.shields.io/badge/CSS-4BAAF0?style=flat-square) ![Static Badge](https://img.shields.io/badge/FIGMA-D572FD?style=flat-square) ![Static Badge](https://img.shields.io/badge/SASS-F681B8?style=flat-square) ![Static Badge](https://img.shields.io/badge/GIT-0A0103?style=flat-square) ![Static Badge](https://img.shields.io/badge/GULP-E61E1E?style=flat-square) ![Static Badge](https://img.shields.io/badge/WCAG2.0-4200FF?style=flat-square) ![Static Badge](https://img.shields.io/badge/JS-FEFE0D?style=flat-square) ![Static Badge](https://img.shields.io/badge/Tailwind-90B2FB?style=flat-square)
 
-**[Code examples](https://www.codewars.com/users/AsyaCloud/completed_solutions)**
+**[Code examples](https://www.codewars.com/users/AsyaSpace/completed_solutions)**
 
 _**Colour Association.**_ 
 ```
