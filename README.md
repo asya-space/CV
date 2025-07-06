@@ -1,2 +1,3 @@
 # rsschool-cv
-cv-task
+cv-task  
+[Deploy](https://asya-space.github.io/rsschool-cv/)
