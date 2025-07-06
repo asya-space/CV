@@ -117,15 +117,15 @@ Jan 2024
 
 _Nov 2023-Jan 2024_
 
-[Musician blog](https://github.com/asyacloud/musician-blog)
+[Musician blog](https://github.com/asya-space/musician-blog)
 
 _03/2022-06/2023_
 
-[Boutique de brownies](https://github.com/asyacloud/Boutique-de-brownies)
+[Boutique de brownies](https://github.com/asya-space/Boutique-de-brownies)
 
 _01/2023-03/2023_
 
-[Travel Agency](https://github.com/asyacloud/bon-voyage)
+[Travel Agency](https://github.com/asya-space/bon-voyage)
 
 09/2022-12/2022
 
