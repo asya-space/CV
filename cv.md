@@ -1,17 +1,18 @@
-![cv-rs](https://i.ibb.co/zVjXZRQ/Dark-Grey-and-Red-Modern-Manager-Linked-In-Career-Page-Background.png "cv-banner")
+![image](https://github.com/user-attachments/assets/9cc16f3b-6205-4a7f-9480-9aa5141513f4)
+
 <p>I am a self-taught web developer. I have also been a content manager and website administrator. Furthermore, I have more than a year of experience in web development. I specialize in responsible design, HTML5, CSS3, and JavaScript. I am also ready for remote work.</p>
 
 **Contacts**
 
-![phone](https://i.ibb.co/7kfrfVY/phone-call.png "call") +77051740455
+![phone](https://i.ibb.co/7kfrfVY/phone-call.png "call") +71234567890
 
-![mail](https://i.ibb.co/3pNmX6x/mail.png "gmail") [space@asyacloud.net](https://mail.google.com/mail/u/0/#inbox)
+![mail](https://i.ibb.co/3pNmX6x/mail.png "gmail") [star@asyaspace.com](https://mail.google.com/mail/u/0/#inbox)
 
-![discord](https://i.ibb.co/KxW3LDR/discord.png "discord") [@asya_cloud](https://discord.com/)
+![discord](https://i.ibb.co/KxW3LDR/discord.png "discord") [@asya_space](https://discord.com/)
 
-![city](https://i.ibb.co/thb2xR5/skyline.png "city") [Kazakhstan](https://g.co/kgs/HbPgoG8)
+![city](https://i.ibb.co/thb2xR5/skyline.png "city") [Cyprus](https://g.co/kgs/HbPgoG8)
 
-![git](https://i.ibb.co/Z84rSKX/github.png "git") [GitHub](https://github.com/asyacloud)
+![git](https://i.ibb.co/Z84rSKX/github.png "git") [GitHub](https://github.com/asya-space)
 ### Skills
  
 ![Static Badge](https://img.shields.io/badge/HTML-F08D30?style=flat-square) ![Static Badge](https://img.shields.io/badge/CSS-4BAAF0?style=flat-square) ![Static Badge](https://img.shields.io/badge/FIGMA-D572FD?style=flat-square) ![Static Badge](https://img.shields.io/badge/SASS-F681B8?style=flat-square) ![Static Badge](https://img.shields.io/badge/GIT-0A0103?style=flat-square) ![Static Badge](https://img.shields.io/badge/GULP-E61E1E?style=flat-square) ![Static Badge](https://img.shields.io/badge/WCAG2.0-4200FF?style=flat-square) ![Static Badge](https://img.shields.io/badge/JS-FEFE0D?style=flat-square) ![Static Badge](https://img.shields.io/badge/Tailwind-90B2FB?style=flat-square)
