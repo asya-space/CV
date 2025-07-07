@@ -1,3 +1,3 @@
-# rsschool-cv
+# CV
 Task about creating web-CV  
-[Deploy](https://asya-space.github.io/rsschool-cv/)
+[Deploy](https://asya-space.github.io/CV/)
