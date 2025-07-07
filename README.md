@@ -1,3 +1,3 @@
-# rsschool-cv
-cv-task  
-[Deploy](https://asya-space.github.io/rsschool-cv/)
+# CV-task
+  
+[Deploy](https://asya-space.github.io/CV/)
