@@ -1,2 +1,2 @@
-# rsschool-cv
-[rsschool-cv-html](https://asya-space.github.io/rsschool-cv/)
+# CV
+[cv-html](https://asya-space.github.io/CV/)
